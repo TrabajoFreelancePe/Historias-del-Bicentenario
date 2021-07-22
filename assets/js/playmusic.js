@@ -1,4 +1,4 @@
-let musica = new Audio("https://convoca.pe/historiasdelapandemia/especial.mp3");
+let musica = new Audio("https://convoca.pe/historiasdelbicentenario/especial.mp3");
 const ckbEspecialAudioSM = document.getElementById("chkEspecialAudioSM");
 const ckbEspecialAudioLG = document.getElementById("chkEspecialAudioLG");
 var riGrid = document.getElementById("gridImagesSection");
