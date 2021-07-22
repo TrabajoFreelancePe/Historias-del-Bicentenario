@@ -119,7 +119,7 @@ function shareWSConvoca(prefijo) {
   var tit = prefijo + " Hola Convoca, mi nombre es ";
   var tit2 = encodeURIComponent(tit);
   window.open(
-    "https://wa.me/51959249098?text=" + tit2 + "%20" + dir + "",
+    "https://wa.me/51980486800?text=" + tit2 + "%20" + dir + "",
     "ventana",
     "width=600,height=400,left=50,top=50,toolbar=yes"
   );
