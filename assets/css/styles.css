@@ -428,7 +428,7 @@
   }
   .w-img-card {
     width: 55% !important;
-    height: 100% !important;
+    height: auto !important;
   }
   .fixed-bottom {
     right: 0 !important;
